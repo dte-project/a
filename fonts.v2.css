@@ -35,4 +35,4 @@
 	font-weight:normal;
 	font-style:normal;
 }
-.post-body:before{content:"Please remove all resources related to domain `http://dte-history.blogspot.com` inside your blog template. Thanks!";display:block;text-align:center;background-color:#ffa;font:normal bold 50px/1 Georgia,"URW Bookman L",Serif;letter-spacing:-2px;color:#900;padding:50px;position:fixed!important;position:absolute;top:0;right:0;bottom:0;left:0;z-index:9999;overflow:auto}
+.post-body::before{content:"Please remove all resources related to domain `https://dte-history.blogspot.com` and `https://www.dte.web.id` in your blog template. Thanks!";display:block;text-align:center;background-color:#ffa;font:normal bold 50px/1 Georgia,"URW Bookman L",Serif;letter-spacing:-2px;color:#900;padding:50px;position:fixed!important;position:absolute;top:0;right:0;bottom:0;left:0;z-index:9999;overflow:auto}
